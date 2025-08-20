@@ -137,16 +137,6 @@
         <img src="https://img.icons8.com/material-outlined/48/github.png" width="40"/><br>GitHub
       </a>
     </td>
-    <td align="center" width="150">
-      <a href="https://www.linkedin.com/" target="_blank">
-        <img src="https://img.icons8.com/color/48/linkedin.png" width="40"/><br>LinkedIn
-      </a>
-    </td>
-    <td align="center" width="150">
-      <a href="https://twitter.com/" target="_blank">
-        <img src="https://img.icons8.com/color/48/twitterx--v1.png" width="40"/><br>Twitter
-      </a>
-    </td>
   </tr>
 </table>
  
@@ -159,7 +149,7 @@
 
 <div align="center">
 
-![GitHub Snake](https://raw.githubusercontent.com/M-Ayaan-gondal/M-Ayaan-gondal/output/snake.svg)
+![Snake animation](https://raw.githubusercontent.com/M-Ayaan-gondal/M-Ayaan-gondal/output/github-contribution-grid-snake.svg)
 
 </div>
 
