@@ -118,9 +118,38 @@
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-FF4500?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ayaan-Gondal)  
-[![Email](https://img.shields.io/badge/Email-FF2400?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayaanpersonal2011@gmail.com)  
-[![Website](https://img.shields.io/badge/Website-FF7F50?style=for-the-badge&logo=firefox&logoColor=white)](https://ayaan-gondal-portfolio.vercel.app/)  
+<h3 align="center">🤝 Let's Connect & Collaborate</h3>
+
+<table align="center">
+  <tr>
+    <td align="center" width="150">
+      <a href="mailto:ayaanpersonal2011@gmail.com">
+        <img src="https://img.icons8.com/color/48/gmail-new.png" width="40"/><br>Email
+      </a>
+    </td>
+    <td align="center" width="150">
+      <a href="https://ayaan-gondal-portfolio.vercel.app/" target="_blank">
+        <img src="https://img.icons8.com/external-others-inmotus-design/67/external-website-basic-ui-elements-others-inmotus-design.png" width="40"/><br>Portfolio
+      </a>
+    </td>
+    <td align="center" width="150">
+      <a href="https://github.com/M-Ayaan-gondal" target="_blank">
+        <img src="https://img.icons8.com/material-outlined/48/github.png" width="40"/><br>GitHub
+      </a>
+    </td>
+    <td align="center" width="150">
+      <a href="https://www.linkedin.com/" target="_blank">
+        <img src="https://img.icons8.com/color/48/linkedin.png" width="40"/><br>LinkedIn
+      </a>
+    </td>
+    <td align="center" width="150">
+      <a href="https://twitter.com/" target="_blank">
+        <img src="https://img.icons8.com/color/48/twitterx--v1.png" width="40"/><br>Twitter
+      </a>
+    </td>
+  </tr>
+</table>
+ 
 
 </div>
 
