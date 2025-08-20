@@ -70,10 +70,11 @@
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ayaan-Gondal&show_icons=true&theme=radical&hide_border=true&title_color=ff4500&icon_color=ff6347"/>  
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ayaan-Gondal&theme=highcontrast&hide_border=true&ring=ff4500&fire=ff6347&currStreakLabel=ff6347"/>  
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=M-Ayaan-gondal&show_icons=true&theme=radical&hide_border=true&title_color=ff4500&icon_color=ff6347"/>  
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=M-Ayaan-gondal&theme=highcontrast&hide_border=true&ring=ff4500&fire=ff6347&currStreakLabel=ff6347"/>  
 
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayaan-Gondal&layout=compact&theme=radical&hide_border=true&title_color=ff4500"/>  
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-Ayaan-gondal&layout=compact&theme=radical&hide_border=true&title_color=ff4500"/>  
+
 
 </div>
 
@@ -83,7 +84,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Ayaan-Gondal&theme=radical&no-frame=true&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=M-Ayaan-gondal&theme=radical&no-frame=true&row=1&column=7"/>
 
 </div>
 
@@ -94,7 +95,9 @@
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-FF4500?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ayaan-Gondal)  
-[![Email](https://img.shields.io/badge/Email-FF2400?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayaanpersonal2011@gmail.com)  
+
+[![Email](https://img.shields.io/badge/Email-FF2400?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayaanpersonal2011@gmail.com) 
+
 [![Website](https://img.shields.io/badge/Website-FF7F50?style=for-the-badge&logo=firefox&logoColor=white)](https://ayaan-gondal-portfolio.vercel.app/)  
 
 </div>
@@ -105,8 +108,8 @@
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/Ayaan-Gondal/Ayaan-Gondal/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)  
-![Snake animation](https://raw.githubusercontent.com/Ayaan-Gondal/Ayaan-Gondal/output/github-contribution-grid-snake.svg#gh-light-mode-only)  
+![GitHub Snake](https://raw.githubusercontent.com/M-Ayaan-gondal/M-Ayaan-gondal/output/snake.svg)
+
 
 </div>
 
