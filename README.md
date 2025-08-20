@@ -1,76 +1,127 @@
-<!-- Top Wave -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=120&section=header&text=Ayaan%20Gondal&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=35"/>
-</p>
+<div align="center">
 
-# 👋 Hi, I'm <span style="color:#ff4500; font-weight:bold;">Ayaan Gondal</span>  
+<img width="100%" height="250" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=3,15,24&height=250&section=header&text=Hello,%20I'm%20Ayaan%20Gondal&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=32"/>
 
-### 🚀 <span style="color:#ff6347; font-weight:bold;">Frontend Developer | Student | Tech Enthusiast</span>  
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2800&pause=2000&color=FF4500&center=true&vCenter=true&width=940&lines=Frontend+Developer;Student+%7C+13+Years+Old;Building+Digital+Experiences;React+%7C+Next.js+%7C+Node.js+%7C+MongoDB;Code,+Craft,+and+Grow+in+the+Digital+Era" alt="Typing SVG"/>
 
-💻 **About Me**  
-- 🌱 **13-year-old developer** passionate about building digital experiences  
-- 🏫 Currently studying in **8th class** (School Student)  
-- 💼 **1+ year** of hands-on coding & project-building experience  
-- 🌍 Based in **Karachi, Pakistan**  
-- 💡 Motto: *"Code, Craft, and Grow in the Digital Era"*  
+[![](https://visitcount.itsvg.in/api?id=Ayaan-Gondal&label=Profile%20Views&color=ff4500&icon=3&pretty=false)](https://visitcount.itsvg.in)
+
+</div>
 
 ---
 
-## 🛠️ Tech Stack  
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-FF5733?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-FF4500?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-FF8C00?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/React-FF6347?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Next.js-FF0000?style=for-the-badge&logo=next.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-FF7F50?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-FF2400?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-FF6347?style=for-the-badge&logo=mongodb&logoColor=white"/>
-</p>
+## 🚀 About Me  
+
+👦 **Name:** Ayaan Gondal  
+📍 **Based in:** Karachi, Pakistan  
+🎓 **Currently:** 8th Class Student  
+💻 **Experience:** 1+ Year of Development  
+🌟 **Passion:** Frontend Development & Full-Stack Learning  
+💡 **Quote:** *"Code, Craft, and Grow in the Digital Era"*  
+🌐 **Website:** [ayaan-gondal-portfolio.vercel.app](https://ayaan-gondal-portfolio.vercel.app/)  
+📧 **Email:** [ayaanpersonal2011@gmail.com](mailto:ayaanpersonal2011@gmail.com)  
 
 ---
 
-## 📂 Featured Projects  
-🔹 [Project 1 - (Link Here)]()  
-🔹 [Project 2 - (Link Here)]()  
-🔹 [Project 3 - (Link Here)]()  
-🔹 [Project 4 - (Link Here)]()  
+## 💻 Tech Stack  
+
+<div align="center">
+
+![HTML5](https://img.shields.io/badge/HTML5-FF5733?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-FF4500?style=for-the-badge&logo=css3&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-FF8C00?style=for-the-badge&logo=javascript&logoColor=black)  
+![React](https://img.shields.io/badge/React-FF6347?style=for-the-badge&logo=react&logoColor=black)  
+![Next.js](https://img.shields.io/badge/Next.js-FF2400?style=for-the-badge&logo=next.js&logoColor=white)  
+![Node.js](https://img.shields.io/badge/Node.js-FF7F50?style=for-the-badge&logo=nodedotjs&logoColor=white)  
+![Express.js](https://img.shields.io/badge/Express.js-FF2400?style=for-the-badge&logo=express&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/MongoDB-FF6347?style=for-the-badge&logo=mongodb&logoColor=white)  
+
+</div>
+
+---
+
+## 🎯 Featured Projects  
+
+<div align="center">
+
+### 📘 Project 1 (2025)  
+> Description of your **Project 1** (Link empty)  
+
+---
+
+### 🎨 Project 2 (2025)  
+> Description of your **Project 2** (Link empty)  
+
+---
+
+### 🛠️ Project 3 (2025)  
+> Description of your **Project 3** (Link empty)  
+
+---
+
+### 🌐 Project 4 (2025)  
+> Description of your **Project 4** (Link empty)  
+
+</div>
 
 ---
 
 ## 📊 GitHub Analytics  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ayaan-Gondal&show_icons=true&theme=tokyonight&title_color=ff4500&icon_color=ff6347" alt="GitHub Stats" height="180px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ayaan-Gondal&theme=highcontrast&ring=ff4500&fire=ff6347&currStreakLabel=ff6347" alt="GitHub Streak" height="180px"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayaan-Gondal&layout=compact&theme=radical&title_color=ff4500" height="180px"/>
-</p>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ayaan-Gondal&show_icons=true&theme=radical&hide_border=true&title_color=ff4500&icon_color=ff6347"/>  
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ayaan-Gondal&theme=highcontrast&hide_border=true&ring=ff4500&fire=ff6347&currStreakLabel=ff6347"/>  
+
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayaan-Gondal&layout=compact&theme=radical&hide_border=true&title_color=ff4500"/>  
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies  
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Ayaan-Gondal&theme=radical&no-frame=true&row=1&column=7"/>
+
+</div>
 
 ---
 
 ## 🤝 Let's Connect & Collaborate  
-- 🌐 Portfolio: [ayaan-gondal-portfolio.vercel.app](https://ayaan-gondal-portfolio.vercel.app/)  
-- 📧 Email: **ayaanpersonal2011@gmail.com**  
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-FF4500?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ayaan-Gondal)  
+[![Email](https://img.shields.io/badge/Email-FF2400?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayaanpersonal2011@gmail.com)  
+[![Website](https://img.shields.io/badge/Website-FF7F50?style=for-the-badge&logo=firefox&logoColor=white)](https://ayaan-gondal-portfolio.vercel.app/)  
+
+</div>
 
 ---
 
 ## 🐍 Contribution Snake  
-<p align="center">
-  <img src="https://github.com/Ayaan-Gondal/Ayaan-Gondal/blob/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
-</p>
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/Ayaan-Gondal/Ayaan-Gondal/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)  
+![Snake animation](https://raw.githubusercontent.com/Ayaan-Gondal/Ayaan-Gondal/output/github-contribution-grid-snake.svg#gh-light-mode-only)  
+
+</div>
 
 ---
 
-<!-- Bottom Wave -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff4500&height=120&section=footer"/>
-</p>
+<div align="center">
 
-## ✨ Final Note  
-⭐ **Star my repositories if you find them interesting!**  
-🔔 **Follow me to stay updated with my latest projects**  
-💼 **Open for collaboration and exciting opportunities**  
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=3,15,24&height=150&section=footer&animation=twinkling"/>
+
+**⭐ Star my repositories if you find them interesting!**  
+**🔔 Follow me to stay updated with my latest projects**  
+**💼 Open for collaboration and exciting opportunities**  
+
+<sub>Last updated: August 2025</sub>
+
+</div>
+
 
