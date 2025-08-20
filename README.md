@@ -25,20 +25,43 @@
 
 ## 💻 Tech Stack  
 
-<div align="center">
+<h3 align="center">🔹 My Skills</h3>
 
-![HTML5](https://img.shields.io/badge/HTML5-FF5733?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-FF4500?style=for-the-badge&logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-FF8C00?style=for-the-badge&logo=javascript&logoColor=black)  
+<table align="center">
+  <tr>
+    <td align="center" width="150">
+      <img src="https://img.icons8.com/color/48/html-5.png" width="40"/><br>HTML
+    </td>
+    <td align="center" width="150">
+      <img src="https://img.icons8.com/color/48/css3.png" width="40"/><br>CSS
+    </td>
+    <td align="center" width="150">
+      <img src="https://img.icons8.com/color/48/javascript.png" width="40"/><br>JavaScript
+    </td>
+    <td align="center" width="150">
+      <img src="https://img.icons8.com/color/48/react-native.png" width="40"/><br>React
+    </td>
+    <td align="center" width="150">
+      <img src="https://img.icons8.com/color/48/nextjs.png" width="40"/><br>Next.js
+    </td>
+  </tr>
+</table>
+<h3 align="center">🚀 Backend Technologies</h3>
 
-![React](https://img.shields.io/badge/React-FF6347?style=for-the-badge&logo=react&logoColor=black)  
-![Next.js](https://img.shields.io/badge/Next.js-FF2400?style=for-the-badge&logo=next.js&logoColor=white)  
-![Node.js](https://img.shields.io/badge/Node.js-FF7F50?style=for-the-badge&logo=nodedotjs&logoColor=white)  
+<table align="center">
+  <tr>
+    <td align="center" width="150">
+      <img src="https://img.icons8.com/color/48/nodejs.png" width="40"/><br>Node.js
+    </td>
+    <td align="center" width="150">
+      <img src="https://img.icons8.com/ios/50/000000/express-js.png" width="40"/><br>Express.js
+    </td>
+    <td align="center" width="150">
+      <img src="https://img.icons8.com/color/48/mongodb.png" width="40"/><br>MongoDB
+    </td>
+  </tr>
+</table>
 
-![Express.js](https://img.shields.io/badge/Express.js-FF2400?style=for-the-badge&logo=express&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-FF6347?style=for-the-badge&logo=mongodb&logoColor=white)  
-
-</div>
 
 ---
 
